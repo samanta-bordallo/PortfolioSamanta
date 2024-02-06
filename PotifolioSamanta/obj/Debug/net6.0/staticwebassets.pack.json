@@ -1,0 +1,485 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PortfolioSamanta.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PortfolioSamanta.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\AdventuraSamanta.png",
+      "PackagePath": "staticwebassets\\Imagens\\AdventuraSamanta.png"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Adventures\\LagoaLeste\\Lagoa1.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Adventures\\LagoaLeste\\Lagoa1.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Adventures\\LagoaLeste\\Lagoa2.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Adventures\\LagoaLeste\\Lagoa2.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Adventures\\LagoaLeste\\Lagoa3.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Adventures\\LagoaLeste\\Lagoa3.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Adventures\\LagoaLeste\\Lagoa4.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Adventures\\LagoaLeste\\Lagoa4.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Adventures\\LagoaLeste\\Lagoa5.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Adventures\\LagoaLeste\\Lagoa5.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Adventures\\Monastery\\Monastery1.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Adventures\\Monastery\\Monastery1.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Adventures\\Monastery\\Monastery10.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Adventures\\Monastery\\Monastery10.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Adventures\\Monastery\\Monastery2.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Adventures\\Monastery\\Monastery2.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Adventures\\Monastery\\Monastery3.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Adventures\\Monastery\\Monastery3.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Adventures\\Monastery\\Monastery4.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Adventures\\Monastery\\Monastery4.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Adventures\\Monastery\\Monastery5.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Adventures\\Monastery\\Monastery5.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Adventures\\Monastery\\Monastery6.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Adventures\\Monastery\\Monastery6.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Adventures\\Monastery\\Monastery7.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Adventures\\Monastery\\Monastery7.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Adventures\\Monastery\\Monastery8.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Adventures\\Monastery\\Monastery8.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Adventures\\Monastery\\Monastery9.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Adventures\\Monastery\\Monastery9.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\GotaAgua.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\GotaAgua.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\Biscuit\\biscuit1.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\Biscuit\\biscuit1.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\Biscuit\\biscuit2.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\Biscuit\\biscuit2.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\Biscuit\\biscuit3.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\Biscuit\\biscuit3.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\Biscuit\\biscuit4.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\Biscuit\\biscuit4.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\Biscuit\\biscuit5.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\Biscuit\\biscuit5.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\Biscuit\\biscuit6.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\Biscuit\\biscuit6.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\Biscuit\\biscuit7.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\Biscuit\\biscuit7.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\Biscuit\\biscuit8.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\Biscuit\\biscuit8.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\PlantsAndCats\\gato1.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\PlantsAndCats\\gato1.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\PlantsAndCats\\gato2.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\PlantsAndCats\\gato2.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\PlantsAndCats\\gato3.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\PlantsAndCats\\gato3.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\PlantsAndCats\\gato4.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\PlantsAndCats\\gato4.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\PlantsAndCats\\gato5.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\PlantsAndCats\\gato5.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\PlantsAndCats\\gato6.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\PlantsAndCats\\gato6.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\PlantsAndCats\\luke1.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\PlantsAndCats\\luke1.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\PlantsAndCats\\luke2.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\PlantsAndCats\\luke2.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\PlantsAndCats\\luke3.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\PlantsAndCats\\luke3.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\PlantsAndCats\\luke4.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\PlantsAndCats\\luke4.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\PlantsAndCats\\luke5.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\PlantsAndCats\\luke5.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\PlantsAndCats\\luke6.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\PlantsAndCats\\luke6.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\PlantsAndCats\\luke7.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\PlantsAndCats\\luke7.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Hobbies\\PlantsAndCats\\luke8.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Hobbies\\PlantsAndCats\\luke8.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Origamis\\dragon.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Origamis\\dragon.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Origamis\\guitar2.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Origamis\\guitar2.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Origamis\\rose.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Origamis\\rose.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Origamis\\rose2.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Origamis\\rose2.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Origamis\\stars.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Origamis\\stars.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\Origamis\\tsuruclinica.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\Origamis\\tsuruclinica.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\PaoDeQueijo.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\PaoDeQueijo.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\SamantaImage - Copia.JPG",
+      "PackagePath": "staticwebassets\\Imagens\\SamantaImage - Copia.JPG"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\SamantaImage.JPG",
+      "PackagePath": "staticwebassets\\Imagens\\SamantaImage.JPG"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\background.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\background.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\brownie.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\brownie.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\guacamole.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\guacamole.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\origami.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\origami.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\site.css",
+      "PackagePath": "staticwebassets\\Imagens\\site.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\Imagens\\xwing_fighter.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\xwing_fighter.jpg"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\css\\Minty.css",
+      "PackagePath": "staticwebassets\\css\\Minty.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Projetos_IEFP\\17 outubro\\PortfolioSamanta\\PotifolioSamanta\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PortfolioSamanta.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PortfolioSamanta.props",
+      "PackagePath": "build\\PortfolioSamanta.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PortfolioSamanta.props",
+      "PackagePath": "buildMultiTargeting\\PortfolioSamanta.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PortfolioSamanta.props",
+      "PackagePath": "buildTransitive\\PortfolioSamanta.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

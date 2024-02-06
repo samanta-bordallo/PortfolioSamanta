@@ -1,6 +1,8 @@
 # PortfolioSamanta
 Projeto dedicado a criação de um portfólio, onde contém outros projetos feitos por mim ou com minha participação, um About Me e um blog pessoal com alguns projetos pessoais.
 
+Este projeto teve início na aula de ASP.NET do curso de Programação .NET do Instituto do Emprego e Formação Profissional, e foi feito no Visual Studio 2022, usando o framework .net. Para a base de dados foi utilizado o SQL Management Studio 19. 
+
 - Ainda estou a aprender como colocar os projetos desse nível de forma online, por isso, neste momento coloco apenas prints do projeto.
 
   1- Página principal/Home:
@@ -39,10 +41,7 @@ Projeto dedicado a criação de um portfólio, onde contém outros projetos feit
   ![imagem](https://github.com/samanta-bordallo/PortfolioSamanta/assets/120125321/80639816-b92c-490c-8358-47b84daa5373)
 
   
-
-
-
-
+Nota: Ainda não está finalizado, faltando alguns ajustes e inserção de dados. 
 
 
 
